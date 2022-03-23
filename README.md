@@ -2,7 +2,7 @@
 
 Steps:
 
-Books (pdf links for reference):
+#### Books (pdf links for reference):
 
 Effective java by Joshua bloc
 Java introduction
@@ -19,7 +19,7 @@ http://www2.nsru.ac.th/tung/java_doc/Core%20Java%20Volume%20I-%20Fundamentals%20
 Oracle Java Tutorial: 
 http://ptgmedia.pearsoncmg.com/images/9780134034089/samplepages/9780134034089.pdf jil 
 
-Java in more details:
+#### Java in more details:
 Effective Java:
 https://github.com/ldfaiztt/CSE331/blob/master/Effective.Java.2nd.Edition.May.2008.3000th.Release.pdf
 
@@ -33,42 +33,45 @@ Clean Code, Robert C. Martin - https://www.investigatii.md/uploads/resurse/Clean
 
 Head first Design Patterns - https://www.cp.eng.chula.ac.th/~wiwat/SDD/DP.pdf
 
-Tutorials:
+#### Tutorials:
 https://docs.oracle.com/javase/tutorial/
 
+
+
+#### Learn IDE plugin 
+
 Intellij IDEA:
+https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/
 
-Learn IDE plugin - https://blog.jetbrains.com/idea/2016/12/ide-features-trainer/
-
-Java Exercises:
+#### Java Exercises:
 http://codingbat.com/java
 https://www.w3resource.com/java-exercises/
  
-Code style references:
-https://google.github.io/styleguide/javaguide.html
-https://github.com/google/google-java-format
-https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md
-https://dzone.com/articles/tabs-vs-spaces-how-they-write-java-in-google-twitt
+#### Code style references:
+1. https://google.github.io/styleguide/javaguide.html
+2. https://github.com/google/google-java-format
+3. https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md
+4. https://dzone.com/articles/tabs-vs-spaces-how-they-write-java-in-google-twitt
 
 
-Core java topics:
+#### Core java topics:
 
-OOP Concepts:
-Object
-Class
-Inheritance
-Interface
-Package
-Platform environment
-Date-Time API
-Exceptions
-Basic IO
-Serialization
-Annotations
-Generics
-Collections
-Reflection
-Concurrency
-Socket / Servlet
-JDBC
+##### OOP Concepts:
+1. Object
+2. Class
+3. Inheritance
+4. Interface
+5. Package
+6. Platform environment
+7. Date-Time API
+8. Exceptions
+9. Basic IO
+10. Serialization
+11. Annotations
+12. Generics
+13. Collections
+14. Reflection
+15. Concurrency
+16. Socket / Servlet
+17. JDBC
 
