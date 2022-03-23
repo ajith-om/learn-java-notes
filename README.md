@@ -53,6 +53,8 @@ https://www.w3resource.com/java-exercises/
 3. https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md
 4. https://dzone.com/articles/tabs-vs-spaces-how-they-write-java-in-google-twitt
 
+#### Tutorial Web link:
+https://www.baeldung.com/java-tutorial
 
 #### Core java topics:
 
